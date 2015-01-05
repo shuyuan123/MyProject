@@ -45,7 +45,7 @@ Temporary Items
 # filter sln config  
 *.mdb  
 *.ldb  
-*.sln  
+MyProject/WebApiApp/*.sln  
 *.config  
   
   
